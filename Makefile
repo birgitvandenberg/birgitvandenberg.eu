@@ -1,5 +1,5 @@
-SITEMAP_DOMAIN_IN=example.com
-SITEMAP_DOMAIN_OUT=example.com
+SITEMAP_DOMAIN_IN=pi.local:4700
+SITEMAP_DOMAIN_OUT=birgitvandenberg.eu
 SITEMAP_FILENAME=sitemap.xml
 
 IN_DIR=import
